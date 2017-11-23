@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dao name="com.xx.xx">
+	<method name="">
+		 select * from test01 where id=#{u_id}
+	</method>
+</Dao>
